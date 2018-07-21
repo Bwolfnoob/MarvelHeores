@@ -1,0 +1,8 @@
+C:\Users\bwolf\source\repos\MarvelHeroes\MarvelHeroes.Core\bin\Debug\netstandard2.0\MarvelHeroes.Core.deps.json
+C:\Users\bwolf\source\repos\MarvelHeroes\MarvelHeroes.Core\bin\Debug\netstandard2.0\MarvelHeroes.Core.dll
+C:\Users\bwolf\source\repos\MarvelHeroes\MarvelHeroes.Core\bin\Debug\netstandard2.0\MarvelHeroes.Core.pdb
+C:\Users\bwolf\source\repos\MarvelHeroes\MarvelHeroes.Core\obj\Debug\netstandard2.0\MarvelHeroes.Core.csproj.CoreCompileInputs.cache
+C:\Users\bwolf\source\repos\MarvelHeroes\MarvelHeroes.Core\obj\Debug\netstandard2.0\MarvelHeroes.Core.AssemblyInfoInputs.cache
+C:\Users\bwolf\source\repos\MarvelHeroes\MarvelHeroes.Core\obj\Debug\netstandard2.0\MarvelHeroes.Core.AssemblyInfo.cs
+C:\Users\bwolf\source\repos\MarvelHeroes\MarvelHeroes.Core\obj\Debug\netstandard2.0\MarvelHeroes.Core.dll
+C:\Users\bwolf\source\repos\MarvelHeroes\MarvelHeroes.Core\obj\Debug\netstandard2.0\MarvelHeroes.Core.pdb
